@@ -12,6 +12,7 @@ In this project Vrinda store sales identify  store sales, customer demographics,
 
 
 ## screenshot of dashboard
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/2def77b0-babc-4c94-90cc-c3b6fc96785e" />
 
 
 <h3>🔑 Key Insights – Vrinda Store Report</h3>
