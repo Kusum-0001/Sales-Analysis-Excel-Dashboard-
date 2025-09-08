@@ -5,13 +5,10 @@ In this project Vrinda store sales identify  store sales, customer demographics,
 
 ## dataset overview
 
-
-
-
-
-
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/7026e9cb-cfe1-49b0-89d6-bb5424630e90" />
 
 ## screenshot of dashboard
+
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/2def77b0-babc-4c94-90cc-c3b6fc96785e" />
 
 
